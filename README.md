@@ -50,7 +50,9 @@ The project addresses the following key challenges:
 ---
 
 ## 📂 Project Structure
-├── Data/ │ └── Contains cleaned dataset for analysis ├── PowerBI_Dashboard/ │ └── Contains .pbix file and dashboard screenshots ├── Reports/ └── Contains presentation and business recommendations
+├── Data - Contains cleaned dataset for analysis 
+├── PowerBI_Dashboard/ - Contains .pbix file and dashboard screenshots 
+├── Reports/ - Contains presentation and business recommendations
 
 ---
 
