@@ -73,8 +73,8 @@ The project addresses the following key challenges:
 
 ## 📸 Sample Visualizations
 Here are some sample visualizations created in Power BI:
-- **Matrix** for frequently bought product combinations - Market basket analysis.png
-- **Pareto Chart** for revenue distribution - Pareto analysis.png
+- **Matrix** for frequently bought product combinations - ![Market Basket Analysis](Market%20basket%20analysis.png)
+- **Pareto Chart** for revenue distribution - ![Pareto Analysis](Pareto%20analysis.png)
 
 
 For additional insights and detailed recommendations, refer to the `Reports/` folder.
